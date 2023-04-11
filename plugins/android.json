@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "it.mephit.ah3mc"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "it.mephit.ah3mc"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "it.mephit.ah3mc"
+    }
+  },
+  "dependent_plugins": {}
+}
